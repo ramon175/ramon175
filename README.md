@@ -1,7 +1,7 @@
-### Hello Everyone! This is your favorite 🇧🇷, Ramon!
 <div align="center">
 <a href="https://app.daily.dev/vraumon"><img src="https://api.daily.dev/devcards/v2/0UafR6piv8Ze0mkIX0vxs.png?type=wide&r=v40" width="652" alt="Ramon Rouco's Dev Card"/></a>
 </div>
+
 ## About
 Natural from Brazil, been living in the UK since 2019.
 Currently a Senior Software Engineer responsible for leading, architecting and developing new solutions to improve business processes and end user's experience using AWS and Azure cloud and managing both infrastructure and applications through IaC technologies like CDK and relying on tests and monitoring.
