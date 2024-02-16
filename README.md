@@ -2,7 +2,7 @@
 
 ## About
 Natural from Brazil, been living in the UK since 2019.
-Currently a Senior Software Engineer responsible for leading, architecting and developing new solutions to improve business processes and end user's experience using AWS and Azure cloud and managing both infrastructure and applications through tests and monitoring.
+Currently a Senior Software Engineer responsible for leading, architecting and developing new solutions to improve business processes and end user's experience using AWS and Azure cloud and managing both infrastructure and applications through IaC technologies like CDK and relying on tests and monitoring.
 Ease of learning new languages ​​and programming languages, ability to speak in public, proactive learning, passionate for problem solving and learning to adapt on each challenge.
 
 
