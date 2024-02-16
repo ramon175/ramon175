@@ -1,4 +1,5 @@
 ### Hello Everyone! This is your favorite 🇧🇷, Ramon!
+<a href="https://app.daily.dev/vraumon"><img src="https://api.daily.dev/devcards/v2/0UafR6piv8Ze0mkIX0vxs.png?type=wide&r=v40" width="652" alt="Ramon Rouco's Dev Card"/></a>
 
 ## About
 Natural from Brazil, been living in the UK since 2019.
