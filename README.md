@@ -21,7 +21,7 @@ Ease of learning new languages ​​and programming languages, ability to speak
 </div>
 
 ## Stack
-[![Typescript, React, Node.js, Javascript, AWS](https://skillicons.dev/icons?i=ts,react,nodejs,js,aws)](https://skillicons.dev)
+[![Typescript, React, Node.js, Javascript, AWS, HTML, CSS, Git](https://skillicons.dev/icons?i=ts,react,nodejs,js,aws,html,css,git)](https://skillicons.dev)
 
 ## Certifications and Achievements
 [![aws-certified-solutions-architect-associate](https://github.com/ramon175/ramon175/assets/18333014/2470caa7-b065-42d8-8a08-6ecfccff5f8e)](https://www.credly.com/badges/0d441da3-3139-4d5d-bbcb-e2208f66d21e/public_url)
@@ -31,6 +31,9 @@ Ease of learning new languages ​​and programming languages, ability to speak
 - [Hong Kong University of Science and Technlogy - Front-End UI Frameworks and Tools](https://drive.google.com/file/d/0Bzsu224nbnDoOEFZRENPQy1DMU0/view?usp=sharing&resourcekey=0-T-cnq8Mm9TCkxno8OPKVCQ)
 - [Hong Kong University of Science and Technlogy - HTML, CSS and JavaScript](https://drive.google.com/file/d/0Bzsu224nbnDoOEFZRENPQy1DMU0/view?usp=sharing&resourcekey=0-T-cnq8Mm9TCkxno8OPKVCQ)
 - [Udemy Complete NodeJS Developer](https://drive.google.com/file/d/1zJsxo5zlwifvG96L3YahXWNSg8_3NJMD/view?usp=sharing)
+
+## My Favorite Quote
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?border=true&theme=dark&quote=...It%20matters%20not%20how%20strait%20the%20gate%2CHow%20charged%20with%20punishments%20the%20scroll%2CI%20am%20the%20master%20of%20my%20fate%2CI%20am%20the%20captain%20of%20my%20soul.)](https://github.com/piyushsuthar/github-readme-quotes&author=William%20Ernest%20Henley)
 
 ## Free time!
 ![PlayStation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) &nbsp;
