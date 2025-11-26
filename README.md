@@ -7,7 +7,7 @@ Natural from Brazil, been living in the UK since 2019.
 Currently a Lead Engineer responsible for leading, architecting and developing new solutions to improve business processes and end user's experience using AWS and Azure cloud and managing both infrastructure and applications through IaC technologies like CDK and relying on tests and monitoring.
 Ease of learning new languages ​​and programming languages, ability to speak in public, proactive learning, passionate for problem solving and learning to adapt on each challenge.
 
-- 🔭 I’m currently working at EF Education First, as a Senior Fullstack Engineer
+- 🔭 I’m currently working at EF Education First, as a Lead Engineer
 - 🌱 I’m currently looking to improve my skills on software architecture mainly using AWS as a tool
 - ⚡ I have a vast list of hobbies, from playing arcade games on a really high level to skateboarding
 
